@@ -1,8 +1,8 @@
 package LinkedList.LLImplementations;
 
 public class LinkedList {
-    int length;
-    ListNode head;
+    public int length;
+    public ListNode head;
 
     public LinkedList() {
         head = null;
